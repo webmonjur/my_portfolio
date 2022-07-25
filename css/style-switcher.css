@@ -25,6 +25,7 @@
     transition:all 0.3s ease;
     border-radius:50%;
     line-height:40px;
+    background:var(--bg-black-50);
 }
 .style-switcher .s-icon::after{
     border-radius:50%;
